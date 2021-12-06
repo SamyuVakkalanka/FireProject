@@ -34,6 +34,13 @@ One of the most observable impacts of California's unrestrained growth into wild
 
 ##### Figure 5: Map of fire perimeters of wildfires restricted to date reported between 2010-2019 or year to 2010s. “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
 
+### WUI and Fire
+
+
+
+![BL](https://user-images.githubusercontent.com/95546678/144882529-731597d1-8bc4-49c5-8abe-2a21eead9755.gif)
+
+##### Figure 6: Both layers transposed over each other for all three decades.
 
 ### Sources
 
