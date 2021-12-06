@@ -12,7 +12,7 @@ The wild-urban interface (WUI) is when human development intersects with wildlan
 
 ### WUI in California
 
-Across the United States, WUI is the "fastest growing land use type" (Radeloff et al.). In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of 2017 (Schoennagel et al.). Figure 2 uses GIS data collected by the Silvis lab through the University of Wisconsin. QGIS mapped the geospatial data and created layers for each year that could then be cycled through to animate the growth of WUI zones over three decades (1990, 2000, and 2010). Significant growth of primarily intermix development occured in the Central Valley (especially near Fresno) up past Sacramento. In addition, the region above San Francisco into North California show significant growth of both interface and intermix WUI regions. Interestingly, Southern California did not seem to show much development into wildlands.
+Across the United States, WUI is the "fastest growing land use type" (Radeloff et al.). In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of 2017 (Schoennagel et al.). Figure 2 uses GIS data collected by the Silvis lab through the University of Wisconsin. QGIS mapped the geospatial data and created layers for each year that could then be cycled through to animate the growth of WUI zones over three decades (1990, 2000, and 2010). Significant growth of primarily intermix development occured in the Central Valley (especially near Fresno) up past Sacramento. In addition, the region above San Francisco into North California show significant growth of both interface and intermix WUI regions. Interestingly, Southern California did not seem to show much development into wildlands. A simple bar graph created by Tableau, a data visualization software, shows the areas of each type of wild-urban interface in comparison to each other in each decade. Here, the increase of WUI area over time is also clear.
 
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/95546678/144792246-483c8d8e-6366-4b9b-aa09-b5781af2a496.gif)
 
@@ -20,7 +20,7 @@ Across the United States, WUI is the "fastest growing land use type" (Radeloff e
 
 <img width="750" alt="Screen Shot 2021-12-06 at 2 39 26 PM" src="https://user-images.githubusercontent.com/95546678/144934243-abef7b1d-1285-4df9-94c8-bf0168d41a9c.png">
 
-##### Figure 3: Graph comparing acres of each type of WUI zone in each decade.
+##### Figure 3: Graph comparing acres of each type of WUI zone in each decade made by tableau and the same data from Silvis lab that was mapped in Figure 2. “Wildland-Urban Interface (WUI) Change 1990-2010.” SILVIS LAB, 2005, http://silvis.forest.wisc.edu/data/wui-change/. 
 
 ### Wildfire
 
