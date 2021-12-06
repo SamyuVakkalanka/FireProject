@@ -25,4 +25,4 @@ It is one of the major zones of residential development, with 4.5 million homes 
 Radeloff, Volker C., et al. “Rapid Growth of the US Wildland-Urban Interface Raises Wildfire Risk.” Proceedings of the National Academy of Sciences, vol. 115, no. 13, 12 Mar. 2018, pp. 3314–3319., https://doi.org/10.1073/pnas.1718850115. 
 
 Schoennagel, Tania, et al. “Adapt to More Wildfire in Western North American Forests as Climate Changes.” Proceedings of the National Academy of 
-Sciences, vol. 114, no. 18, 2017, pp. 4582–4590., https://doi.org/10.1073/pnas.1617464114. 
+Sciences, vol. 114, no. 18, 2017, pp. 4582–4590., https://doi.org/10.1073/pnas.1617464114. d
