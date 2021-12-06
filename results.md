@@ -12,9 +12,11 @@ The wild-urban interface (WUI) is when human development intersects with wildlan
 
 ### WUI in California
 
-Across the United States, WUI is the "fastest growing land use type" (Radeloff et al.). In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of 2017 (Schoennagel et al.). Figure 2 uses GIS data collected by the Silvis lab through the University of Wisconsin. QGIS mapped the geospatial data and created layers for each year that could then be cycled through to animate the growth of WUI zones over three decades (1990, 2000, and 2010). Significant growth occured in 
+Across the United States, WUI is the "fastest growing land use type" (Radeloff et al.). In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of 2017 (Schoennagel et al.). Figure 2 uses GIS data collected by the Silvis lab through the University of Wisconsin. QGIS mapped the geospatial data and created layers for each year that could then be cycled through to animate the growth of WUI zones over three decades (1990, 2000, and 2010). Significant growth of primarily intermix development occured in the Central Valley (especially near Fresno) up past Sacramento. In addition, the region above San Francisco into North California show significant growth of both interface and intermix WUI regions. Interestingly, Southern California did not seem to show much development into wildlands.
 
-![5wqb03](https://user-images.githubusercontent.com/95546678/144758934-9de92c31-f9f4-4525-9408-0fbbf870236b.gif)
+![Webp net-gifmaker](https://user-images.githubusercontent.com/95546678/144792246-483c8d8e-6366-4b9b-aa09-b5781af2a496.gif)
+
+##### Figure 2: Map of residential zones from 1990 to 2000 to 2010 to show growth of WUI zones. (Note: image can be enlarged by clicking on it). “Wildland-Urban Interface (WUI) Change 1990-2010.” SILVIS LAB, 2005, http://silvis.forest.wisc.edu/data/wui-change/. 
 
 ### WUI and Fire
 - largest percent of wildfires burned in WUI zones (35%)(Schoennagel et al.)
