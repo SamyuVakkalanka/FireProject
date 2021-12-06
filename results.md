@@ -4,7 +4,7 @@ California wildfires are constantly in the nation's spotlight. The media spreads
 
 ### The Wild-Urban Interface
 
-The wild-urban interface (WUI) is when human development intersects with wildlands. Often, this refers to residential zones, with houses being built into the native vegetation. There are two forms of interaction between these neighborhoods and the wildland: intermix and interface. Intermix WUI refers to when houses are built into the wildlife, with the natural fauna being integrated into the residential areas. Interface WUI is where there are clear boundaries between the residencies and the wildland (See Figure 1). Both forms of development lead to major consequences for both the humans living there and the natural landscape and native ecosystem that the construction is encroaching on. As humans disturb the wildlands, they disturb many of the ecological processes necessary to sustain the ecosystem as well as introduce non-native species and threats to the landscape. In turn, the ecology has to change to sustain itself, leaving the neighborhoods with an unstable environment.
+The wild-urban interface (WUI) is when human development intersects with wildlands. Often, this refers to residential zones, with houses being built into the native vegetation. There are two forms of interaction between these neighborhoods and the wildland: intermix and interface. Intermix WUI refers to when houses are built into the wildlife, with the natural fauna being integrated into the residential areas. Interface WUI is where there are clear boundaries between the residencies and the wildland (See Figure 1). Both forms of development lead to major consequences for both the humans living there and the natural landscape and native ecosystem that the construction is encroaching on. As humans disturb the wildlands, they disturb many of the ecological processes necessary to sustain the ecosystem as well as introduce non-native species and threats to the landscape. In turn, the ecology has to change, leaving the neighborhoods with an unstable and potentially unpredictable environment (Radeloff et al.).
 
 <img width="396" alt="Screen Shot 2021-12-04 at 8 52 28 PM" src="https://user-images.githubusercontent.com/95546678/144734335-118e38c5-d034-4902-9c44-a6d04e3dfe59.png">
 
@@ -12,7 +12,7 @@ The wild-urban interface (WUI) is when human development intersects with wildlan
 
 ### WUI in California
 
-In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of (Schoennagel et al.). Across the United States, it is the "fastest growing land use type"
+Across the United States, WUI is the "fastest growing land use type" (Radeloff et al.). In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of 2017 (Schoennagel et al.). Figure 2 uses GIS data collected by the Silvis lab through the University of Wisconsin. QGIS mapped the geospatial data and created layers for each year that could then be cycled through to animate the growth of WUI zones over three decades (1990, 2000, and 2010). 
 
 ![5wqb03](https://user-images.githubusercontent.com/95546678/144758934-9de92c31-f9f4-4525-9408-0fbbf870236b.gif)
 
