@@ -12,7 +12,7 @@ The wild-urban interface (WUI) is when human development intersects with wildlan
 
 ### WUI in California
 
-Across the United States, WUI is the "fastest growing land use type" (Radeloff et al.). In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of 2017 (Schoennagel et al.). Figure 2 uses GIS data collected by the Silvis lab through the University of Wisconsin. QGIS mapped the geospatial data and created layers for each year that could then be cycled through to animate the growth of WUI zones over three decades (1990, 2000, and 2010). 
+Across the United States, WUI is the "fastest growing land use type" (Radeloff et al.). In California, the WUI is one of the major zones of residential development, with 4.5 million homes in these regions as of 2017 (Schoennagel et al.). Figure 2 uses GIS data collected by the Silvis lab through the University of Wisconsin. QGIS mapped the geospatial data and created layers for each year that could then be cycled through to animate the growth of WUI zones over three decades (1990, 2000, and 2010). Significant growth occured in 
 
 ![5wqb03](https://user-images.githubusercontent.com/95546678/144758934-9de92c31-f9f4-4525-9408-0fbbf870236b.gif)
 
