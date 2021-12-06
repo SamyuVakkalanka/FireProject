@@ -18,29 +18,35 @@ Across the United States, WUI is the "fastest growing land use type" (Radeloff e
 
 ##### Figure 2: Map of residential zones from 1990 to 2000 to 2010 to show growth of WUI zones. (Note: image can be enlarged by clicking on it). “Wildland-Urban Interface (WUI) Change 1990-2010.” SILVIS LAB, 2005, http://silvis.forest.wisc.edu/data/wui-change/. 
 
+<img width="750" alt="Screen Shot 2021-12-06 at 2 39 26 PM" src="https://user-images.githubusercontent.com/95546678/144934243-abef7b1d-1285-4df9-94c8-bf0168d41a9c.png">
+
+##### Figure 3: Graph comparing acres of each type of WUI zone in each decade.
+
 ### Wildfire
 
-One of the most observable impacts of California's unrestrained growth into wildlands is wildfire. In California, the largest percent of wildfires burned in WUI zones (35%)(Schoennagel et al.). This is especially jarring considering the increasing numbers of fires starting each year. CalFire, along with the California state government collect an abundance of data related to many of the wildfires above a minimum area. From how the fire started to the time it was reported to how many acres it burned, CalFire collects as much as information as possible and then publicly release the files with the information. These files were put into a program like ArcGIS, which mapped the fires and could be queried to create artificial layers for each decade of interest. Figures 3-5 shows these maps for each of the decades where WUI data was mapped.
+One of the most observable impacts of California's unrestrained growth into wildlands is wildfire. In California, the largest percent of wildfires burned in WUI zones (35%)(Schoennagel et al.). This is especially jarring considering the increasing numbers of fires starting each year. CalFire, along with the California state government collect an abundance of data related to many of the wildfires above a minimum area. From how the fire started to the time it was reported to how many acres it burned, CalFire collects as much as information as possible and then publicly release the files with the information. These files were put into a program like ArcGIS, which mapped the fires and could be queried to create artificial layers for each decade of interest. Figures 4-6 shows these maps for each of the decades where WUI data was mapped.
 
 <img width="544" alt="Screen Shot 2021-12-05 at 10 03 46 PM" src="https://user-images.githubusercontent.com/95546678/144795662-07a021e3-82d2-40f5-87f2-c8fbf329fed2.png">
 
-##### Figure 3: Map of fire perimeters of wildfires restricted to date reported between 1990-1999 or year to 1990s. “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
+##### Figure 4: Map of fire perimeters of wildfires restricted to date reported between 1990-1999 or year to 1990s. “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
 
 <img width="513" alt="Screen Shot 2021-12-05 at 10 11 44 PM" src="https://user-images.githubusercontent.com/95546678/144796440-7839b16f-027a-489f-a535-29438bcab674.png">
 
-##### Figure 4: Map of fire perimeters of wildfires restricted to date reported between 2000-2009 or year to 2000s. “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
+##### Figure 5: Map of fire perimeters of wildfires restricted to date reported between 2000-2009 or year to 2000s. “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
 
 <img width="479" alt="Screen Shot 2021-12-05 at 10 16 48 PM" src="https://user-images.githubusercontent.com/95546678/144796931-a9982e6a-4572-4185-aab6-3d93d2e24cbe.png">
 
-##### Figure 5: Map of fire perimeters of wildfires restricted to date reported between 2010-2019 or year to 2010s. “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
+##### Figure 6: Map of fire perimeters of wildfires restricted to date reported between 2010-2019 or year to 2010s. “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
 
 ### WUI and Fire
 
-Figure 6 takes both sets of data and layers them on top of each other. Here, the WUI zones and the wildfires that spread in them can be compared. The increase in fires overall is clear between 1990 and 2010. When focusing specifically focusing on the zones with significant WUI growth, a similar trend emerges. Specifically, the region above San Francisco
+Figure 7 takes both sets of data and layers them on top of each other. Here, the WUI zones and the wildfires that spread in them can be compared. The increase in fires overall is clear between 1990 and 2010. When focusing specifically focusing on the zones with significant WUI growth, a similar trend emerges. Specifically, the region above San Francisco shows an increase in fires over the three decades at the same time as the development of the intermix WUI zone in particular. A similar conclusion can be drawn about the region in the Central Valley from Fresno up to Sacramento.
 
-![BL Final](https://user-images.githubusercontent.com/95546678/144921797-66c6d4e2-4d5f-4537-b66a-f89797dbaff9.gif)
+![Webp net-gifmaker](https://user-images.githubusercontent.com/95546678/144924606-254c65af-2ffb-4dc9-a56a-2a695aa898a1.gif)
 
-##### Figure 6: Both layers transposed over each other for all three decades.
+##### Figure 7: Both layers transposed over each other for all three decades.
+
+### 
 
 ### Sources
 
