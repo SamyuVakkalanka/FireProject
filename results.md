@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Expansion and Wildfire: How WUI Growth in California Changes Fire's Interactions with Humans
 
-You can use the [editor on GitHub](https://github.com/SamyuVakkalanka/FireProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+California wildfires are constantly in the nation's spotlight. The media spreads jarring images of burning houses and wildland, planes dropping fire retardent on blazing forests, and smokey skies. At the end of these destructive events, affected communities rebuild and attempt to continue their lives as normal. However, as fires become more common in the changing climate and people better understand fire regimes and the land's reliance on fire as an ecological force, human impact on these fires and their interaction with them comes into question. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Wild-Urban Interface
 
-### Markdown
+The wild-urban interface (WUI) is when human development intersects with wildlands. Often, this refers to residential zones, with houses being built into the native vegetation. There are two forms of interaction between these neighborhoods and the wildland: intermix and interface. Intermix WUI refers to when houses are built into the wildlife, with the natural fauna being integrated into the residential areas. Interface WUI is where there are clear boundaries between the residencies and the wildland (See Figure 1). Both forms of development lead to major consequences for both the humans living there and the natural landscape and native ecosystem that the construction is encroaching on. As humans disturb the wildlands, they disturb many of the ecological processes necessary to sustain the ecosystem as well as introduce non-native species and threats to the landscape. In turn, the 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img width="396" alt="Screen Shot 2021-12-04 at 8 52 28 PM" src="https://user-images.githubusercontent.com/95546678/144734335-118e38c5-d034-4902-9c44-a6d04e3dfe59.png">
 
-```markdown
-Syntax highlighted code block
+##### Figure 1: The interaction between housing and wildland occurs in 4 different ways. WUI is differentiated by intermix (houses mixed with wild plants) and interface (houses and wildlife intersecting but staying seperate). “Northern Research Station News Releases.” Most California Fires Occur in Area of Wildland-Urban Interface with Less Fuel and More People, US Department of Agriculture Forest Service, 24 Sept. 2019, https://www.nrs.fs.fed.us/news/release/wui-interface-intermix. 
 
-# Header 1
-## Header 2
-### Header 3
+### WUI in California
 
-- Bulleted
-- List
+It is one of the major zones of residential development, with 4.5 million homes in California being in these regions (Schoennagel et al.). Across the United States, it is the "fastest growing land use type"
 
-1. Numbered
-2. List
+### WUI and Fire
+- largest percent of wildfires burned in WUI zones (35%)(Schoennagel et al.)
 
-**Bold** and _Italic_ and `Code` text
+![5wqb03](https://user-images.githubusercontent.com/95546678/144758934-9de92c31-f9f4-4525-9408-0fbbf870236b.gif)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Sources
+Radeloff, Volker C., et al. “Rapid Growth of the US Wildland-Urban Interface Raises Wildfire Risk.” Proceedings of the National Academy of Sciences, vol. 115, no. 13, 12 Mar. 2018, pp. 3314–3319., https://doi.org/10.1073/pnas.1718850115. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamyuVakkalanka/FireProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Schoennagel, Tania, et al. “Adapt to More Wildfire in Western North American Forests as Climate Changes.” Proceedings of the National Academy of 
+Sciences, vol. 114, no. 18, 2017, pp. 4582–4590., https://doi.org/10.1073/pnas.1617464114. 
