@@ -46,9 +46,15 @@ Figure 7 takes both sets of data and layers them on top of each other. Here, the
 
 ##### Figure 7: Both layers transposed over each other for all three decades.
 
-### 
+### Why?
+
+The observable trends of wildfires increasing, especially in areas with significant WUI growth, is concerning, especially as this growth is increasing over time. This brings up the question of why there this trend exists and how California can prevent it. The answer to the first question must account for a multitude of ecological and societal factors. For example, the act of putting humans closer to the fuel that is naturally present in these wildlands automatically leads to an increase in "human ignitions". This could be from sources such as wildfires to even the electrical lines necessary to support new neighborhoods (Radeloff et al.). A study completed by the Silvis Lab and the USDA Forest Service found that interface WUI actually faced a higher rate of destruction due to wildfire as a result of firebrands created by wildfires in wildlands (Kramer et al.). Additionally, the increase in fire events is changing the composition of the wildlands, leading to an even more unpredictable fire patterns (Syphard et al.). To help address the growing problem and dangers to human lives and infrastructure, the first step is risk assessment. Companies working on modeling and assessing the risk of wildfire to newly developed residencies in the WUI help homeowners address the dangerousness of their living situation (Mahmoud, Akshat). In addition, observing trends in higher risk environments can lead to the development of solutions. A 2017 paper studying how the country can face fire as frequency and severity rises found that a more targeted approach to fuel reduction 
 
 ### Sources
+
+Kramer, Heather Anu, et al. “High Wildfire Damage in Interface Communities in California.” International Journal of Wildland Fire, vol. 28, no. 9, 30 July 2019, p. 641., https://doi.org/10.1071/wf18108. 
+
+Mahmoud, Hussam, and Akshat Chulahwat. “Assessing Wildland–Urban Interface Fire Risk.” Royal Society Open Science, vol. 7, no. 8, 26 Aug. 2020, p. 201183., https://doi.org/10.1098/rsos.201183. 
 
 “Northern Research Station News Releases.” Most California Fires Occur in Area of Wildland-Urban Interface with Less Fuel and More People, US Department of Agriculture Forest Service, 24 Sept. 2019, https://www.nrs.fs.fed.us/news/release/wui-interface-intermix. 
 
@@ -56,6 +62,8 @@ Radeloff, Volker C., et al. “Rapid Growth of the US Wildland-Urban Interface R
 
 Schoennagel, Tania, et al. “Adapt to More Wildfire in Western North American Forests as Climate Changes.” Proceedings of the National Academy of 
 Sciences, vol. 114, no. 18, 2017, pp. 4582–4590., https://doi.org/10.1073/pnas.1617464114.
+
+Syphard, Alexandra D., et al. “Human Influence on California Fire Regimes.” Ecological Applications, vol. 17, no. 5, 4 Jan. 2007, pp. 1388–1402., https://doi.org/10.1890/06-1128.1. 
 
 “Welcome to GIS Data.” Cal Fire Department of Forestry and Fire Protection, CA.gov, 2021, https://frap.fire.ca.gov/mapping/gis-data/. 
 
