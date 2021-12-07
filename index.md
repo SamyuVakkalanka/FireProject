@@ -1,6 +1,6 @@
 ## Expansion and Wildfire: How WUI Growth in California Changes Fire's Interactions with Humans
 
-California wildfires are constantly in the nation's spotlight. The media spreads jarring images of burning houses and wildland, planes dropping fire retardant on blazing forests, and smoky skies. At the end of these destructive events, affected communities rebuild and attempt to continue their lives as normal. However, as fires become more common in the changing climate and people better understand fire regimes and the land's reliance on fire as an ecological force, human impact on these fires and their interaction with them comes into question. 
+California wildfires are constantly in the nation's spotlight. The media spreads jarring images of burning houses and wildland, planes dropping fire retardant on blazing forests, and smoky skies. At the end of these destructive events, affected communities rebuild and attempt to continue their lives as normal. However, as fires become more common in the changing climate and as people better understand fire regimes and the land's reliance on fire as an ecological force, human impact on these fires and their interaction with them comes into question. 
 
 ### The Wild-Urban Interface
 
