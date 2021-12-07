@@ -40,7 +40,7 @@ One of the most observable impacts of California's unrestrained growth into wild
 
 ### WUI and Fire
 
-Figure 7 takes both sets of data and layers them on top of each other. Here, the WUI zones and the wildfires that spread in them can be compared. The increase in fires overall is clear between 1990 and 2010. When  specifically focusing on the zones with significant WUI growth, a similar trend emerges. Specifically, the region above San Francisco shows an increase in fires over the three decades at the same time as the development of the intermix WUI zone in particular. A similar conclusion can be drawn about the region in the Central Valley from Fresno up to Sacramento.
+Figure 7 takes both sets of data and layers them on top of each other. Here, the WUI zones and the wildfires that spread in them can be compared. The increase in fires overall is clear between 1990 and 2010. When  specifically focusing on the zones with significant WUI growth, a similar trend emerges. The region above San Francisco shows an increase in fires over the three decades at the same time as the development of the intermix WUI zone in particular. A similar conclusion can be drawn about the region in the Central Valley from Fresno up to Sacramento.
 
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/95546678/144924606-254c65af-2ffb-4dc9-a56a-2a695aa898a1.gif)
 
